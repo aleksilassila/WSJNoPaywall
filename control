@@ -2,7 +2,7 @@ Package: me.aleksilassila.wsjnopaywall
 Name: WSJNoPaywall
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Bypass WSJ paywall.
 Maintainer: Aleksi Lassila
 Author: Aleksi Lassila
 Section: Tweaks
